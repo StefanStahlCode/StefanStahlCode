@@ -1,4 +1,4 @@
--  Hi, I’m @Stefan Stahl
+-  Hi, I’m Stefan Stahl
 -  I’m interested in learning new stuff
 -  I’m currently learning Python
 
