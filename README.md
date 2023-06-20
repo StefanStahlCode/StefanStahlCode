@@ -1,6 +1,7 @@
--  Hi, I’m Stefan Stahl
--  I’m interested in learning new stuff
--  I’m currently learning Python
+-  Hallo, Mein Name ist Stefan Stahl
+-  Ich bin neugierig und offen neues zu lernen
+-  aktuell lerne ich Python
+-  der Rest meines Github Profils ist größtenteils auf englisch, da es leichter ist englische Dokumentationen und gute Tutorials zu finden
 
 <!---
 StefanStahlCode/StefanStahlCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
